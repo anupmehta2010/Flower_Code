@@ -21,8 +21,8 @@ Install these from the VS Code Extensions view (`Ctrl+Shift+X`).
 
 1. **Clone the Repository**
   ```bash
-  git clone https://your-repository-url.git
-  cd your-project-directory
+  git clone https://github.com/anupmehta2010/Flower_Code.git
+  cd Flower_Code
   ```
 
 2. **Install Sass Globally**
